@@ -1,2 +1,1 @@
-https://github.com/CaioVinicius7/daily-diet
-https://github.com/Ninodev30/daily-diet
+O projeto consiste em um sistema de gerenciamento de dieta, no qual o usuário pode cadastrar as refeições que vai fazendo ai longo dos dias e receber um feedback e estatísticas sobre sua dieta.
